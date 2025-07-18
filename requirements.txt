@@ -1,0 +1,4 @@
+ipykernel>=6.29.5
+langchain>=0.3.26
+openai>=1.97.0
+pinecone>=7.3.0
